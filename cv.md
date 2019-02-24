@@ -12,4 +12,4 @@ I have no bad habits, I try to finish the task to the end.
    https://github.com/fiftik/advanced-zeros
    https://github.com/fiftik/money-exchange
 7. BNTU (2009-2014), Courses Java SE & EE in BigSoft (2015), now learn JS in RSSchool.
-8. Learn English language in school, read documentation to programming languages, frameworks.
+8. A2. Learn English language in school, read documentation to programming languages, frameworks.
