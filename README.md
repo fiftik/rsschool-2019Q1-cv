@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+[https://fiftik.github.io/rsschool-2019Q1-cv/cv.md](https://fiftik.github.io/rsschool-2019Q1-cv/cv.md)
